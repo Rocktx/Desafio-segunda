@@ -1,0 +1,46 @@
+* {
+    background-color: black;
+  
+  }
+  
+  .main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+  
+  .info {
+    line-height: normal;
+    color: white;
+    
+    
+  }
+  
+  .botao {
+    text-align: center;
+    line-height: 3rem;
+   
+  }
+  .info p {
+    margin: 0.3rem;
+   
+
+  }
+  .botao button {
+    color: white;
+    border-radius: 0.5rem;
+    background-color: limegreen;
+    padding: 0.5rem 2rem;
+    margin-top: 2rem;
+    
+  }
+  .info input {
+    background-color: #cccccc28;
+    padding: 0.5rem 3.0rem;
+    border-radius: 0.3rem;
+    border: 1px solid #cccccc9c;
+    color: white;
+    
+    
+  }
